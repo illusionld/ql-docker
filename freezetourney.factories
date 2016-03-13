@@ -46,6 +46,10 @@
       "g_timeoutCount":"1",
       "g_timeoutLen":"120",
       "g_floodprot_maxcount":"0",
-      "sv_floodprotect":"0"
+      "sv_floodprotect":"0",
+      "qlx_serverBrandName "Freeze Tag | Tournament Server | GLHF!",
+      "qlx_serverBrandTopField":"Freeze Tag | Tournament Server",
+      "qlx_leaverBan":"0",
+      "qlx_serverBrandBottomField":"Server Admin: illusionld"
    }
 }
