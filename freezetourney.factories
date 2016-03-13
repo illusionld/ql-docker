@@ -4,7 +4,8 @@
    "author":"illusionld",
    "description":"FREEZE TAG",
    "basegt":"ft",
-   "cvars":{  
+   "cvars":{
+      "g_password":"password",
       "g_allowvotemidgame":"1",
       "g_complaintLimit":"0",
       "g_freezeAutoThawTime":"90000",
