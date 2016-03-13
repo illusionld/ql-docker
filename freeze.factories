@@ -34,7 +34,7 @@
       "g_startingWeapons":"255",
       "g_teamForceBalance":"0",
       "g_teamSizeMin":"2",
-      "sv_warmupReadyPercentage":"0.95",
+      "sv_warmupReadyPercentage":"0.51",
       "g_warmupDelay":"15",
       "g_warmupReadyDelay":"0",
       "g_overtime":"120",
