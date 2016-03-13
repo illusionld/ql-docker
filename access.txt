@@ -3,4 +3,3 @@
 # 1 entry per line, format: steamid|(mod|admin|ban)
 # ex: 76561198072786081|ban
 76561198164603127|admin
-

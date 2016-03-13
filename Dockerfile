@@ -38,6 +38,8 @@ COPY server.cfg ql/baseq3/
 RUN chown quake:quake ql/baseq3/server.cfg
 COPY mappool_freeze.txt ql/baseq3/
 RUN chown quake:quake ql/baseq3/mappool_freeze.txt
+COPY mappool_freezeclassic.txt ql/baseq3/
+RUN chown quake:quake ql/baseq3/mappool_freezeclassic.txt
 COPY freeze.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 COPY workshop.txt ql/baseq3/

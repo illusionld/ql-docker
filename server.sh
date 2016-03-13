@@ -2,8 +2,8 @@
 gameport=${gameport:-'27960'}
 rconport=${rconport:-'28960'}
 
-location=${location:-'US Central'}
-name=${name:-"Freeze Tag [$location]"}
+location=${location:-'Dallas, TX'}
+name=${name:-"Freeze Tag - [$location]"}
 
 if [ "$admin" != "" ]; then
   echo "$admin|admin" > ~/.quakelive/27960/access.txt

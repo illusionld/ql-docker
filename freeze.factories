@@ -22,7 +22,7 @@
       "timelimit":"15",
       "roundtimelimit":"0",
       "roundlimit":"15",
-      "teamsize":"5",
+      "teamsize":"6",
       "g_shufflePowerRatingThreshold":"999",
       "g_startingAmmo_lg":"100",
       "g_startingAmmo_pg":"50",
@@ -47,6 +47,5 @@
       "g_timeoutLen":"120",
       "g_floodprot_maxcount":"0",
       "sv_floodprotect":"0",
-      "g_password":"glhf"
    }
 }
