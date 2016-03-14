@@ -21,7 +21,7 @@
       "g_loadout":"0",
       "timelimit":"15",
       "roundtimelimit":"0",
-      "roundlimit":"15",
+      "roundlimit":"8",
       "teamsize":"6",
       "g_shufflePowerRatingThreshold":"999",
       "g_startingAmmo_lg":"100",
@@ -34,7 +34,7 @@
       "g_startingWeapons":"255",
       "g_teamForceBalance":"0",
       "g_teamSizeMin":"2",
-      "sv_warmupReadyPercentage":"0.95",
+      "sv_warmupReadyPercentage":"0.51",
       "g_warmupDelay":"15",
       "g_warmupReadyDelay":"0",
       "g_overtime":"120",
@@ -46,6 +46,6 @@
       "g_timeoutCount":"1",
       "g_timeoutLen":"120",
       "g_floodprot_maxcount":"0",
-      "sv_floodprotect":"0",
+      "sv_floodprotect":"0"
    }
 }
