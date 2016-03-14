@@ -65,7 +65,7 @@ RUN cd ql && ~/install_minqlx_plugins.sh
 RUN chown -R quake:quake ql/
 USER quake
 
-# ports to connect to: 27960 is udp and tcp, 28960 is tcp
-EXPOSE 27960 28960
+# ports to connect to: 27965 is udp and tcp, 28965 is tcp
+EXPOSE 27965 28965
 
 CMD ql/server.sh 0

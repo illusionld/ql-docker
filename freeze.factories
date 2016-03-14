@@ -21,7 +21,7 @@
       "g_loadout":"0",
       "timelimit":"15",
       "roundtimelimit":"0",
-      "roundlimit":"8",
+      "roundlimit":"10",
       "teamsize":"6",
       "g_shufflePowerRatingThreshold":"999",
       "g_startingAmmo_lg":"100",
