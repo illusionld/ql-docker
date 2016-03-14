@@ -8,7 +8,7 @@ To start a new server using this image:
 
 1. Create a directory to store the persistent Redis database files in your home directory.  For this example I called it ql-redis.
 2. Launch a Redis container: `sudo docker run -d --name redis -v /home/yourusername/ql-redis:/data redis`
-3. Launch the Quake Live server container: `sudo docker run -p 27961:27960/udp --link redis -d --name ql -e name="Test Server" -e admin="76561198164603127" illusionld/ql-docker`
+3. Launch the Quake Live server container: `sudo docker run -p 27965:27965 -p 28965:28965/tcp --link redis -d --name ql -e name="Put the name of your server here" -e admin="76561198164603127" illusionld/qlds-ft`
 
 This can be automated using Docker's Tutum service, which adds remote log viewing and resource monitoring.  See the included ql-rbx.yml and ql-sjc.yml files for example Tutum stack definitions.
 
