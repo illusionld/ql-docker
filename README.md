@@ -1,6 +1,6 @@
 # qlds-ft
 
-A Docker image for running a dedicated Quake Live server.  It includes installation of minqlx and bundles most of the custom maps from the Steam workshop.
+Adapted from dpadgett/ql-docker. Modified to suit personal needs. A Docker image for running a dedicated Quake Live server.  It includes installation of minqlx and bundles most of the custom maps from the Steam workshop.
 
 ## Installation and Usage
 

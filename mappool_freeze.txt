@@ -2,10 +2,9 @@ ts_dm5tmp|freeze
 polo3dm5|freeze
 cpm18r|freeze
 qfraggel2a|freeze
-chiropterata|freeze
+chiropteradm|freeze
 qfraggel3tdm|freeze
 cowsmap|freeze
-fff|freeze
 ci|freeze
 rjldm1|freeze
 rjldm3|freeze
@@ -16,10 +15,9 @@ uberkill|freeze
 ospdm14rc1|freeze
 lffd|freeze
 nemesis|freeze
-thephhortress|freeze
 6plusplus|freeze
 sanctorium|freeze
 pasdm1|freeze
-xccc_dm7|freeze
 lastarena|freeze
 lsjgcoop|freeze
+69pickup1

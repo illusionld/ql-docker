@@ -16,10 +16,6 @@
 587950516
 # Uberkill - uberkill
 607068129
-# Bloodfactory - xccc_dm7
-641587915
-# The Phhortress - thephhortress
-642491463
 # Polo Maps - polo3dm2-polo3dm5
 564946744
 # Looking for Free Doom - lffd
@@ -28,23 +24,17 @@
 641515689
 # Cow's Map - cowsmap 
 579950284
-# fff -fff
-563100435
 # The Last Arena - lastarena
 641304331
 # Full Moon - ts_dm5 ts_dm5tmp
 563105825
-# dm6 bridge to rail Practice (left out of pool) - dm6b2r
-609946851
 # Sanctorium - sanctorium
 552722973
 # Batcula - batcula (left out of pool)
 558018431
 # Citadel Insatiable - ci
 638618287
-# 69 Pickup - 69pickup1 (not currently in pool)
+# 69 Pickup - 69pickup1
 562569404
-# Cow DC 07 Remix - cowdc07rmx (not currently in pool)
-612205246
 # Nunuk Maps - chiropterata chiropteradm
 569916167
