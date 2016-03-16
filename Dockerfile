@@ -7,8 +7,7 @@ RUN apt-get update
 RUN apt-get install -y libc6:i386 libstdc++6:i386 wget software-properties-common
 RUN add-apt-repository ppa:fkrull/deadsnakes
 RUN apt-get update
-RUN apt-get install -y python3.5 python3.5-dev build-essential libzmq3-dev vim nano
-
+RUN apt-get install -y python3.5 python3.5-dev build-essential libzmq3-dev vim
 RUN useradd -ms /bin/bash quake
 
 # copy the nice dotfiles that dockerfile/ubuntu gives us:
@@ -38,8 +37,8 @@ COPY server.cfg ql/baseq3/
 RUN chown quake:quake ql/baseq3/server.cfg
 COPY mappool_freeze.txt ql/baseq3/
 RUN chown quake:quake ql/baseq3/mappool_freeze.txt
-COPY mappool_freezeclassic.txt ql/baseq3/
-RUN chown quake:quake ql/baseq3/mappool_freezeclassic.txt
+COPY mappool_ftclassic.txt ql/baseq3/
+RUN chown quake:quake ql/baseq3/mappool_ftclassic.txt
 COPY freeze.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 COPY workshop.txt ql/baseq3/
@@ -65,7 +64,7 @@ RUN cd ql && ~/install_minqlx_plugins.sh
 RUN chown -R quake:quake ql/
 USER quake
 
-# ports to connect to: 27965 is udp and tcp, 28965 is tcp
-EXPOSE 27965 28965
+# ports to connect to: 27960 is udp and tcp, 28960 is tcp
+EXPOSE 27960 28960
 
 CMD ql/server.sh 0

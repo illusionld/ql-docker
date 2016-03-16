@@ -1,5 +1,5 @@
 ts_dm5tmp|freeze
-polodm5|freeze
+polo3dm5|freeze
 cpm18r|freeze
 qfraggel2a|freeze
 chiropterata|freeze
@@ -17,7 +17,7 @@ ospdm14rc1|freeze
 lffd|freeze
 nemesis|freeze
 thephhortress|freeze
-6plus|freeze
+6plusplus|freeze
 sanctorium|freeze
 pasdm1|freeze
 xccc_dm7|freeze
