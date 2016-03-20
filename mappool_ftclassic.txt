@@ -16,4 +16,3 @@ solid|classic
 terminatria|classic
 theedge|classic
 tornado|classic
-6plus|classic
