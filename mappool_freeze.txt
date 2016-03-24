@@ -23,6 +23,7 @@ lastarena|freeze
 lsjgcoop|freeze
 arcanecitadel|freeze
 arkinholm|freeze
+blackcathedral|freeze
 campgrounds|freeze
 deepinside|freeze
 devilish|freeze
@@ -32,6 +33,7 @@ hiddenfortress|freeze
 leviathan|freeze
 limbus|freeze
 purgatory|freeze
+quarantine|freeze
 ragnarok|freeze
 realmofsteelrats|freeze
 retribution|freeze
@@ -39,3 +41,5 @@ solid|freeze
 terminatria|freeze
 theedge|freeze
 tornado|freeze
+trinity|freeze
+windsongkeep|freeze
