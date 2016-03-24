@@ -2,12 +2,14 @@
 FROM ubuntu:14.04 
 MAINTAINER illusionld <illusionld@gmail.com> 
 
-RUN dpkg --add-architecture i386
-RUN apt-get update
-RUN apt-get install -y libc6:i386 libstdc++6:i386 wget software-properties-common
+#RUN dpkg --add-architecture i386
+#RUN apt-get install -y libc6:i386 
+#RUN apt-get install -y libstdc++6:i386 
 RUN add-apt-repository ppa:fkrull/deadsnakes
 RUN apt-get update
-RUN apt-get install -y python3.5 python3.5-dev build-essential libzmq3-dev vim nano
+RUN apt-get install -y wget software-properties-common python 3.5 \
+			python3.5-dev build-essential libzmq3-dev \
+			lib32gcc1 vim nano
 RUN useradd -ms /bin/bash quake
 
 # copy the nice dotfiles that dockerfile/ubuntu gives us:
