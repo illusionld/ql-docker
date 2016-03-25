@@ -6,8 +6,6 @@
 583821497
 # Q-Fraggel Maps - qfraggel2a qfraggel3tdm
 573807159
-# R3tina Maps - rjldm1 rjldm3
-585008637
 # Maximus - lsjgcoop
 637350852
 # Iron Yard - fr3dm1
